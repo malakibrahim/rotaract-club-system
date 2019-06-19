@@ -1,0 +1,14 @@
+Ryla,International,20,80
+Bazar,community,30,159
+Orphans-Wedding,Community,33,200
+Trip,Club-Service,19,19
+Seminar,PD,27,260
+Ramdan,Community,50,300
+Car-wash,Fundraising,15,60
+Session,PR,4,12
+Video,PR,25,30
+Medical-convoy,Community,40,400
+
+
+ dd,dd,234,55
+ 

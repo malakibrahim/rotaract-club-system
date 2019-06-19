@@ -1,0 +1,14 @@
+
+Aya,1998,director,engineering
+nagham,1997,member,dentist
+mazen,1996,director,engineer
+shady,1995,guest,broker
+malak,1996,guest,student
+henar,1998,president,teacher
+Amr,1997,tresure,pharamcist
+nada,1997,president,doctor
+nadeen,1996,guest,student
+yara,1999,vice-president,dentist
+
+dina,4230872,student,arts
+perry,4230976,director,student
